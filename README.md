@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work, CHANGE ALL CHANGE. updatetetetete
+This repository is for showing how Git and GitHub work, CHANGE ALL CHANGE. updatetetetete. changeeeeeeee
 
 ## Introduction
 
